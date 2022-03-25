@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Chris
-- 👀 I’m interested in front-end web development
-- 🌱 I’m currently perfecting my angular and reactjs skills
+👋 Hi, I’m Chris
+- 👀 I’m interested in web development
+- 🌱 I’m currently perfecting my python and javascript skills
 - 💞️ I’m looking to collaborate on big web projects
 - 📫 How to reach me: chrishogan.dev
 
