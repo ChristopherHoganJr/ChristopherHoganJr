@@ -1,9 +1,10 @@
-<h1>👋 Hi, I’m Chris</h1>
+<h1>👨🏼‍💻 Hi, I’m Chris</h1>
 <p>👀 I’m interested in <strong>Full Stack Development</strong>.</p>
 <p>🌱 I’m currently a student at <strong>Coding Dojo</strong> and the founder of <strong>DREAMW3B, LLC</strong>.</p>
 <p>💞️ I’m looking to collaborate on <strong>Web Apps</strong> and <strong>Web3</strong> projects.</p>
-<p>📫 How to reach me: https://www.linkedin.com/in/chrishoganjr/</p>
-
+<a href="https://www.linkedin.com/in/chrishoganjr/">👔 LinkedIn</a>
+<a href="https://www.hackerrank.com/cHogan">💻 HackerRank</a>
+<a href="https://www.codewars.com/users/cHogan">💻 Codewars</a>
 
 <h2>Languages + Frameworks + Libraries</h2>
 <p><strong>Python</strong> - Flask, Jinja2, B-crypt, PyMySQL, PyGame</p>
