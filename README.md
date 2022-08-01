@@ -10,6 +10,7 @@
 <p><strong>Python</strong> - Flask, Jinja2, B-crypt, PyMySQL, PyGame</p>
 <p><strong>Javascript</strong> - React.js, Styled-Components, AJAX, Chartjs, REST APIs, Node.js</p>
 <p><strong>Web Fundamentals</strong> - HTML5, CSS3, SCSS, SASS, Bootstrap 5</p>
+<p><strong>Java</string> - </p>
 <h2>Shell Scripting</h2>
 <p>baSH, zSH, PowerShell</p>
 <h2>Programming Techniques</h2>
