@@ -1,3 +1,4 @@
+<div align="center">
 <h1>👨🏼‍💻 Hi, I’m Chris</h1>
 <p>👀 I’m interested in <strong>Full Stack Development</strong>.</p>
 <p>🌱 I’m currently a student at <strong>Coding Dojo</strong> and the founder of <strong>DREAMW3B, LLC</strong>.</p>
@@ -5,24 +6,9 @@
 <a href="https://www.linkedin.com/in/chrishoganjr/">👔 LinkedIn</a>
 <a href="https://www.hackerrank.com/cHogan">💻 HackerRank</a>
 <a href="https://www.codewars.com/users/cHogan">💻 Codewars</a>
-
-<h2>Languages + Frameworks + Libraries</h2>
-<p><strong>Python</strong> - Flask, Jinja2, B-crypt, PyMySQL, PyGame</p>
-<p><strong>Javascript</strong> - React.js, Styled-Components, AJAX, Chartjs, REST APIs, Node.js</p>
-<p><strong>Web Fundamentals</strong> - HTML5, CSS3, SCSS, SASS, Bootstrap 5</p>
-<p><strong>Java</string> - </p>
-<h2>Shell Scripting</h2>
-<p>baSH, zSH, PowerShell</p>
-<h2>Programming Techniques</h2>
-<p>Regex, Recursion, Object Oriented Programming</p>
-<h2>Tools</h2>
-<p>Photoshop, Procreate, Figma, Balsamiq, Trello</p>
-
-
-
-
-
-
+<hr/>
+<img src="https://miro.medium.com/max/1400/1*Y5S3wOm52_4iYusUagbEtw.jpeg" alt="MERN Stack"/>
+</div>
 <!---
 ChristopherHoganJr/ChristopherHoganJr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
