@@ -1,6 +1,6 @@
 <div align="left">
 <h1>👨🏼‍💻 Hi, I’m Chris</h1>
-<p>I'm a 🥋🥋 double blackbelt holder at the <strong>Coding Dojo</strong> and the founder of <strong>DreamW3b, LLC</strong> thats passionate about MERN, Web3 development, and blockchain technologies.</p>
+<p>I'm a 🥋🥋 double blackbelt holder at the <strong>Coding Dojo</strong> and the founder of <strong>DreamW3b, LLC</strong> and passionate about MERN, Web3 development, and blockchain technologies.</p>
 <h3>Languages</h3>
 <p>JavaScript, HTML5, CSS3, Python3, Java, Solidity</p>
 <h3>Frameworks & Libraries</h3>
