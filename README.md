@@ -4,7 +4,7 @@
 <h3>Languages</h3>
 <p>JavaScript, HTML5, CSS3, Python3, Java, Solidity</p>
 <h3>Frameworks & Libraries</h3>
-<p>Node.js, Next.js, React.js, Express.js, Styled Components, SASS, SCSS, Font Awesome, Bootstrap 5, Flask, PyGame, Jinja2, Spring, Axios, Hardhat</p>
+<p>Node.js, Next.js, React.js, Express.js, Styled Components, SASS, SCSS, Font Awesome, Bootstrap 5, Flask, PyGame, Jinja2, Spring Boot, Axios, Hardhat</p>
 <h3>Databases</h3>
 <p>SQL, MySQL, MongoDB</p>
 <h3>Tools</h3>
