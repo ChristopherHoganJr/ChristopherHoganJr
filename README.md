@@ -7,7 +7,7 @@
 <p>TypeScript, JavaScript, HTML5, CSS3, Python3, Java, Solidity</p>
 
 <h3>Frameworks & Libraries</h3>
-<p>Node.js, Next.js, React.js, Express.js, TailwindCSS, Styled Components, SASS, SCSS, Font Awesome, Bootstrap 5, Flask, PyGame, Jinja2, Spring Boot, Axios, Hardhat, tRPC, NextAuth</p>
+<p>Node.js, Next.js, React.js, Express.js, Vue.js, Next.js TailwindCSS, Styled Components, SASS, SCSS, Font Awesome, Bootstrap 5, Flask, PyGame, Jinja2, Spring Boot, Axios, Hardhat, tRPC, NextAuth</p>
 <h3>Databases</h3>
 <p>SQL, MySQL, MongoDB</p>
 <h3>Tools</h3>
