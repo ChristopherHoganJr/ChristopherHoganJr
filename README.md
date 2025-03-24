@@ -26,4 +26,4 @@ I'm a software developer and a motorsports enthusiast located in the SF Bay Area
 
 ## Certificates
 - [FrontendExpert - AlgoExpert](https://certificate.algoexpert.io/FrontendExpert%20Certificate%20FE-9a9273efc0)
-- [Certified Junior JavaScript Developer](https://certificates.dev/c/9e80d629-a3f8-454d-8e17-0ac579975225)
+- [Certified Junior JavaScript Developer - Certificates.dev](https://certificates.dev/c/9e80d629-a3f8-454d-8e17-0ac579975225)
