@@ -13,6 +13,8 @@ I like building practical systems: APIs, dashboards, and tools that make machine
   Repo: https://github.com/ChristopherHoganJr/phoenix
 - **CryptoWolves (Flask)** — Server-rendered Python web application demonstrating authentication, relational data models, and MVC-style architecture  
   Repo: https://github.com/ChristopherHoganJr/cryptowolves
+- **Home Network Monitoring** — Python network monitoring tool built to explore device discovery, network visibility, and basic automation on a local network  
+  Repo: https://github.com/ChristopherHoganJr/home-network-monitoring
 
 ## Skills
 - **Frontend:** Next.js, TypeScript, React, Tailwind CSS
